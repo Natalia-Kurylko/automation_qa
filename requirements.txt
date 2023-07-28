@@ -1,0 +1,5 @@
+pip~=22.0.3
+pytest~=7.0.1
+selenium~=4.1.0
+webdriver-manager~=3.8.6
+faker ~=18.7.0
